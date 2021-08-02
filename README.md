@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on making access to Cannabis safe at [@Dutchie](https://v3.dutchie.com/careers#current-opportunities)
 - 🌱 I’m currently learning Rspec and testing
-- 👯 I’m looking to collaborate on anything involving open source softeae
+- 👯 I’m looking to collaborate on anything involving open source software
 - 💬 Ask me about how to navigate a career in tech
 - 📫 How to reach me: dalvin@dalvindigital.com
 - 😄 Pronouns: He / Him / His
