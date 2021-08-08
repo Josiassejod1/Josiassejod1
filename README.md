@@ -7,6 +7,8 @@
 - 📫 How to reach me: dalvin@dalvindigital.com
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: I was a certified Scuba Diver and I have swam with Sharks 🦈
+- Rubyist 💎
+- Flutter Enthusiast 🐦
 
 
 <!--
@@ -23,12 +25,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-alive = true
-growing = 🌱
-
-while (alive)
-  growing += 💧🌞
-end
 
 [![Dalvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josiassejod1)](https://github.com/anuraghazra/github-readme-stats)
 [<img width="400" style="border-radius: 25px" alt="Screen Shot 2021-08-08 at 5 52 01 PM" src="https://user-images.githubusercontent.com/12024422/128646792-a9e18f0b-b2a1-470f-a91f-f210f7dec9cd.png">](https://www.duolingo.com/profile/DalvinJosi?via=share_profile)
