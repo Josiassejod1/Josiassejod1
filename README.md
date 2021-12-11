@@ -8,6 +8,7 @@
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: I was a certified Scuba Diver and I have swam with Sharks 🦈
 - Rubyist 💎
+- Web3 [Ready](https://gif-portal-starter-ib0vzs0ag-josiassejod1.vercel.app/)
 - Flutter Enthusiast 🐦
 
 
