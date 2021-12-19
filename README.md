@@ -8,7 +8,10 @@
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: I was a certified Scuba Diver and I have swam with Sharks 🦈
 - Rubyist 💎
-- Web3 [Ready](https://gif-portal-starter-ib0vzs0ag-josiassejod1.vercel.app/)
+- Web3 Ready 
+-  Deployed my own token on [TestNet](https://ropsten.etherscan.io/address/0xD705a812A0204333F4b839c7e1Eef545df04D9e2)
+-  Created a MVC2 Gif [app](https://gif-portal-starter-ib0vzs0ag-josiassejod1.vercel.app/)
+-  Mint page for my [book](https://nft-drop-starter-project-mu.vercel.app/)
 - Flutter Enthusiast 🐦
 
 
