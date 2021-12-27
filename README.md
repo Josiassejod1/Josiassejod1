@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 -->
 
 [![Dalvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josiassejod1)](https://github.com/anuraghazra/github-readme-stats)
-[<img width="400" style="border-radius: 25px" alt="Screen Shot 2021-08-08 at 5 52 01 PM" src="https://user-images.githubusercontent.com/12024422/128646792-a9e18f0b-b2a1-470f-a91f-f210f7dec9cd.png">](https://www.duolingo.com/profile/DalvinJosi?via=share_profile)
+![Metrics](https://metrics.lecoq.io/Josiassejod1?template=classic&achievements=1&languages=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=6&config.timezone=America%2FLos_Angeles)
