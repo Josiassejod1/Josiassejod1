@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I was a certified Scuba Diver and I have swam with Sharks 🦈
 - Rubyist 💎
 - Flutter Enthusiast 🐦
+- Javascript Craftsman
 ## Web3 Ready 
 -  Deployed my own token on [TestNet](https://ropsten.etherscan.io/address/0xD705a812A0204333F4b839c7e1Eef545df04D9e2)
 -  Created a MVC2 Gif [app](https://gif-portal-starter-ib0vzs0ag-josiassejod1.vercel.app/)
