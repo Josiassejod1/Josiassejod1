@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently:
+- 🌱 I’m currently learning:
 -  [Game Development](https://godotengine.org/)
 -  [Japanese](https://www.duolingo.com/profile/Josiassejod1)
 -  [Ethical Hacking](https://academy.hackthebox.com/achievement/badge/825f1e9b-17d1-11ee-acfc-bea50ffe6cb4)
