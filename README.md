@@ -1,15 +1,20 @@
 ### Hi there 👋
 
-- 🌱 I’m currently Game Development, [Japanese](https://www.duolingo.com/profile/Josiassejod1), and [Ethical Hacking]("https://academy.hackthebox.com/achievement/badge/825f1e9b-17d1-11ee-acfc-bea50ffe6cb4")
-- 👯 I’m looking to collaborate on anything involving open source software (Music)
-- 💬 Ask me about how to navigate a career in tech
+- 🌱 I’m currently:
+-  [Game Development](https://godotengine.org/)
+-  [Japanese](https://www.duolingo.com/profile/Josiassejod1)
+-  [Ethical Hacking](https://academy.hackthebox.com/achievement/badge/825f1e9b-17d1-11ee-acfc-bea50ffe6cb4)
+- 💬 Ask me about how to navigate a [career in tech](www.securingingternships.com)
 - 📫 How to reach me: dalvin@dalvindigital.com
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: I was a certified Scuba Diver and I have swam with Sharks 🦈
-- Rubyist 💎
 - Haitian 🇭🇹
-- Flutter Enthusiast 🐦
-- Javascript Craftsman
+# What I know
+- Ruby on Rails / Ruby 🧙🏾‍♂️🧙🏾‍♂️🧙🏾‍♂️🧙🏾‍♂️🧙🏾‍♂️
+- Javascript 🧙🏾‍♂️🧙🏾‍♂️🧙🏾‍♂️🧙🏾‍♂️
+- React 🧙🏾‍♂️🧙🏾‍♂️🧙🏾‍♂️🧙🏾‍♂️
+- React Native 🧙🏾‍♂️🧙🏾‍♂️🧙🏾‍♂️
+- Flutter 🧙🏾‍♂️🧙🏾‍♂️🧙🏾‍♂️
 ## Web3 Ready 
 -  Deployed my own token on [TestNet](https://ropsten.etherscan.io/address/0xD705a812A0204333F4b839c7e1Eef545df04D9e2)
 -  Created a MVC2 Gif [app](https://gif-portal-starter-ib0vzs0ag-josiassejod1.vercel.app/)
