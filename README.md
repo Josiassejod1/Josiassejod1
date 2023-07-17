@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently Game Development, Japanese, and Ethical Hacking
+- 🌱 I’m currently Game Development, [Japanese](https://www.duolingo.com/profile/Josiassejod1), and [Ethical Hacking]("https://academy.hackthebox.com/achievement/badge/825f1e9b-17d1-11ee-acfc-bea50ffe6cb4")
 - 👯 I’m looking to collaborate on anything involving open source software (Music)
 - 💬 Ask me about how to navigate a career in tech
 - 📫 How to reach me: dalvin@dalvindigital.com
