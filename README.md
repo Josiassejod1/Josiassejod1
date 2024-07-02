@@ -1,9 +1,6 @@
 ### Hi there 👋
-
-- 🌱 I’m currently learning:
--  [Game Development](https://godotengine.org/)
--  [Japanese](https://www.duolingo.com/profile/Josiassejod1)
--  [Ethical Hacking](https://academy.hackthebox.com/achievement/badge/825f1e9b-17d1-11ee-acfc-bea50ffe6cb4)
+- Avatar generated [here](https://emojis.sh/emoji/static-shock-YbrQMO5mi1)
+- Currently working on [Text Sage](https://www.textsage.net)
 - 💬 Ask me about how to navigate a [career in tech](www.securingingternships.com)
 - 📫 How to reach me: dalvin@dalvindigital.com
 - 😄 Pronouns: He / Him / His
