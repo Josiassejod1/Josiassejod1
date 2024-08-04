@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I was a certified Scuba Diver and I have swam with Sharks 🦈
 - Haitian 🇭🇹
 - What Am I Currently Playing ?
+
   ![capsule_616x353](https://github.com/user-attachments/assets/9de37c49-d1c7-479e-a841-3ed674549287)
 
 # What I know
