@@ -8,8 +8,7 @@
 - Haitian 🇭🇹
 - What Am I Currently Playing ?
 
-  ![capsule_616x353](https://github.com/user-attachments/assets/9de37c49-d1c7-479e-a841-3ed674549287)
-  
+![capsule_616x353](https://github.com/user-attachments/assets/9de37c49-d1c7-479e-a841-3ed674549287)
 ![capsule_616x353 (1)](https://github.com/user-attachments/assets/ec28c655-5615-40bd-b4ca-4f20f81b6f83)
 
 # What I know
