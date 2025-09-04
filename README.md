@@ -8,6 +8,8 @@
 - Haitian 🇭🇹
 - What Am I Currently Playing ?
 
+![X](https://komarev.com/ghpvc/?username=Josiassejod1)
+
 ![capsule_616x353](https://github.com/user-attachments/assets/9de37c49-d1c7-479e-a841-3ed674549287)
 ![capsule_616x353 (1)](https://github.com/user-attachments/assets/ec28c655-5615-40bd-b4ca-4f20f81b6f83)
 <img width="583" alt="Screenshot 2024-12-07 at 9 35 53 PM" src="https://github.com/user-attachments/assets/5916a6ba-3b3d-4e9d-a3a2-359ce3590d4d">
