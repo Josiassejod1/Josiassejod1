@@ -6,13 +6,14 @@
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: I was a certified Scuba Diver and I have swam with Sharks 🦈
 - Haitian 🇭🇹
-- What Am I Currently Playing ?
+
 
 ![X](https://komarev.com/ghpvc/?username=Josiassejod1)
 
-![capsule_616x353](https://github.com/user-attachments/assets/9de37c49-d1c7-479e-a841-3ed674549287)
-![capsule_616x353 (1)](https://github.com/user-attachments/assets/ec28c655-5615-40bd-b4ca-4f20f81b6f83)
-<img width="583" alt="Screenshot 2024-12-07 at 9 35 53 PM" src="https://github.com/user-attachments/assets/5916a6ba-3b3d-4e9d-a3a2-359ce3590d4d">
+- What Am I Currently Playing ?
+<img width="575" height="337" alt="Screenshot 2025-10-14 at 11 56 12 PM" src="https://github.com/user-attachments/assets/14fbd00c-8df9-46a5-8bae-8005036c026a" />
+
+
 
 # What I know
 - Ruby on Rails / Ruby 🧙🏾‍♂️🧙🏾‍♂️🧙🏾‍♂️🧙🏾‍♂️🧙🏾‍♂️
