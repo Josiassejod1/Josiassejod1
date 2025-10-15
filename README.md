@@ -1,7 +1,7 @@
 ### Hi there 👋
 - Avatar generated [here](https://emojis.sh/emoji/static-shock-YbrQMO5mi1)
 - Currently working on [Learn Creole With Jorge](https://www.learnwithjorge.net)
-- 💬 Ask me about how to navigate a [career in tech](https://www.securingingternships.com)
+- 💬 Ask me about how to navigate a [career in tech](https://www.securinginternships.com)
 - 📫 How to reach me: dalvin@dalvindigital.com
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: I was a certified Scuba Diver and I have swam with Sharks 🦈
