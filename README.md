@@ -1,3 +1,4 @@
+![Heyyy from Dalvin](https://github.com/user-attachments/assets/dae52fb7-87f0-4a27-8ea7-e2dae16869b7)
 ### Hi there 👋
 - Avatar generated [here](https://emojis.sh/emoji/static-shock-YbrQMO5mi1)
 - Currently working on [Learn Creole With Jorge](https://www.learnwithjorge.net)
