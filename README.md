@@ -12,7 +12,8 @@
 ![X](https://komarev.com/ghpvc/?username=Josiassejod1)
 
 - What Am I Currently Playing ?
-<img width="575" height="337" alt="Screenshot 2025-10-14 at 11 56 12 PM" src="https://github.com/user-attachments/assets/14fbd00c-8df9-46a5-8bae-8005036c026a" />
+<img width="787" height="1151" alt="Pragmata_cover" src="https://github.com/user-attachments/assets/778cf832-de2e-45f2-bb28-493c57585f3f" />
+
 
 
 
