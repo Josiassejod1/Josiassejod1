@@ -11,7 +11,7 @@
 
 ![X](https://komarev.com/ghpvc/?username=Josiassejod1)
 
-- What Am I Currently Playing ?
+- What Am I [Currently Playing](https://backloggd.com/u/josiassejod1/) ?
 <img width="787" height="1151" alt="Pragmata_cover" src="https://github.com/user-attachments/assets/778cf832-de2e-45f2-bb28-493c57585f3f" />
 
 
