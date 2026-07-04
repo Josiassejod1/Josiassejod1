@@ -8,6 +8,8 @@
 - ⚡ Fun fact: I was a certified Scuba Diver and I have swam with Sharks 🦈
 - Haitian 🇭🇹
 
+[![My GitFut card](https://gitfut.com/josiassejod1.png)](https://gitfut.com/josiassejod1)
+
 
 ![X](https://komarev.com/ghpvc/?username=Josiassejod1)
 
