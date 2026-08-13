@@ -14,7 +14,8 @@
 ![X](https://komarev.com/ghpvc/?username=Josiassejod1)
 
 - What Am I [Currently Playing](https://backloggd.com/u/josiassejod1/) ?
-<img width="1955" height="2260" alt="81V363Ib+XL" src="https://github.com/user-attachments/assets/59f2131a-b2ae-4676-aff7-6bd1d6909a7e" />
+<img width="349" height="512" alt="Screenshot 2026-08-13 at 1 16 42 AM" src="https://github.com/user-attachments/assets/54761e00-e3a7-4468-811e-be24cb94abb7" />
+
 
 
 
