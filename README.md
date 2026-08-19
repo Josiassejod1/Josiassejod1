@@ -13,7 +13,14 @@
 
 ![X](https://komarev.com/ghpvc/?username=Josiassejod1)
 
+
 - What Am I [Currently Playing](https://backloggd.com/u/josiassejod1/) ?
+
+Current Game
+<img width="575" height="253" alt="Screenshot 2026-08-19 at 4 48 42 PM" src="https://github.com/user-attachments/assets/2e5dce8a-3d29-482d-a120-b1be5cd31b12" />
+
+
+Last Game Played
 <img width="349" height="512" alt="Screenshot 2026-08-13 at 1 16 42 AM" src="https://github.com/user-attachments/assets/54761e00-e3a7-4468-811e-be24cb94abb7" />
 
 
