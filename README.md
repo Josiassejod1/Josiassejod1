@@ -3,6 +3,7 @@
 - Avatar generated [here](https://emojis.sh/emoji/static-shock-YbrQMO5mi1)
 - Currently working on [Learn Creole With Jorge](https://www.learnwithjorge.net)
 - 💬 Ask me about how to navigate a [career in tech](https://www.securinginternships.com)
+- Contributor to [Sonar Cool](https://github.com/eperez28/sonar.cool)
 - 📫 How to reach me: dalvin@dalvindigital.com
 - 😄 Pronouns: He / Him / His
 - ⚡ Fun fact: I was a certified Scuba Diver and I have swam with Sharks 🦈
