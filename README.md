@@ -16,7 +16,7 @@
 
 
 - What Am I [Currently Playing](https://backloggd.com/u/josiassejod1/) ?
-[![Now playing: Marvel's Wolverine](https://gitgamer-tau.vercel.app/api/card?user=Josiassejod1)](https://github.com/Josiassejod1)
+[![Now playing: Marvel's Wolverine](https://gitgamer-tau.vercel.app/api/card?user=Josiassejod1&v=2)](https://github.com/Josiassejod1)
 
 ## 🗳️ What should I play next?
 Got a game I *need* to play? [**➕ Recommend one**](https://github.com/Josiassejod1/Josiassejod1/issues/new?title=%5BRec%5D+) and [**👍 vote on other people's picks**](https://github.com/Josiassejod1/Josiassejod1/issues?q=is%3Aissue+is%3Aopen+%5BRec%5D+in%3Atitle+sort%3Areactions-%2B1-desc).
