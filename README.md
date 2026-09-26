@@ -16,7 +16,7 @@
 
 
 - What Am I [Currently Playing](https://backloggd.com/u/josiassejod1/) ?
-[![Now playing: Marvel's Wolverine](https://gitgamer-tau.vercel.app/api/card?user=Josiassejod1&v=2)](https://github.com/Josiassejod1)
+[![Now playing: Marvel's Wolverine](https://www.gitgamer.com/api/card?user=Josiassejod1)](https://www.gitgamer.com/card?user=Josiassejod1)
 
 <sub>Want this on your profile? Make your own with [gitgamer](https://github.com/Josiassejod1/gitgamer).</sub>
 
