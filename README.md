@@ -2,7 +2,7 @@
 ### Hi there 👋
 - Avatar generated [here](https://emojis.sh/emoji/static-shock-YbrQMO5mi1)
 - Currently working on [Learn Creole With Jorge](https://www.learnwithjorge.net)
-- 🎮 Built [**gitgamer**](https://github.com/Josiassejod1/gitgamer): show what you're playing on your GitHub profile and let visitors vote on what you play next. Open source! [⭐ Star it](https://github.com/Josiassejod1/gitgamer) · [🍴 Fork it](https://github.com/Josiassejod1/gitgamer/fork)
+- 🎮 Built [**gitgamer**](https://github.com/Josiassejod1/gitgamer): show what you're playing on your GitHub profile, blog or site. Open source! [⭐ Star it](https://github.com/Josiassejod1/gitgamer) · [🍴 Fork it](https://github.com/Josiassejod1/gitgamer/fork)
 - 💬 Ask me about how to navigate a [career in tech](https://www.securinginternships.com)
 - Contributor to [Sonar Cool](https://github.com/eperez28/sonar.cool)
 - 📫 How to reach me: dalvin@dalvindigital.com
@@ -17,11 +17,6 @@
 
 - What Am I [Currently Playing](https://backloggd.com/u/josiassejod1/) ?
 [![Now playing: Marvel's Wolverine](https://gitgamer-tau.vercel.app/api/card?user=Josiassejod1&v=2)](https://github.com/Josiassejod1)
-
-## 🗳️ What should I play next?
-[![What should I play next?](https://gitgamer-tau.vercel.app/api/picks?repo=Josiassejod1/Josiassejod1)](https://github.com/Josiassejod1/Josiassejod1/issues?q=is%3Aissue+is%3Aopen+%5BRec%5D+in%3Atitle+sort%3Areactions-%2B1-desc)
-
-Got a game I *need* to play? [**➕ Recommend one**](https://github.com/Josiassejod1/Josiassejod1/issues/new?title=%5BRec%5D+) and [**👍 vote on other people's picks**](https://github.com/Josiassejod1/Josiassejod1/issues?q=is%3Aissue+is%3Aopen+%5BRec%5D+in%3Atitle+sort%3Areactions-%2B1-desc).
 
 <sub>Want this on your profile? Make your own with [gitgamer](https://github.com/Josiassejod1/gitgamer).</sub>
 
