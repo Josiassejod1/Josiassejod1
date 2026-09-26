@@ -17,6 +17,9 @@
 
 - What Am I [Currently Playing](https://backloggd.com/u/josiassejod1/) ?
 
+- <img width="285" height="348" alt="Marvel&#39;s_Wolverine_cover_art" src="https://github.com/user-attachments/assets/4e73414d-89d8-4bde-9620-723848767010" />
+
+
 ## Current Game
 <img width="575" height="253" alt="Screenshot 2026-08-19 at 4 48 42 PM" src="https://github.com/user-attachments/assets/2e5dce8a-3d29-482d-a120-b1be5cd31b12" />
 
