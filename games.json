@@ -1,5 +1,5 @@
 {
-  "name": "Dalvin",
+  "username": "Josiassejod1",
   "now_playing": {
     "title": "Marvel's Wolverine",
     "platform": "PS5",
@@ -7,6 +7,12 @@
     "wiki": "Marvel's Wolverine"
   },
   "recently_played": [
+    {
+      "title": "Ninja Gaiden Sigma 2",
+      "status": "Finished",
+      "ended": "2026-09-28",
+      "wiki": "Ninja Gaiden Sigma 2"
+    },
     {
       "title": "Resident Evil 7: Biohazard",
       "platform": "PS5",
